@@ -1,5 +1,5 @@
 Api = "https://jsonware.com/json/688410e8f4013fbe56009d8e1621f2a4.json"
-Will Deploy in Heroku or Netlify and give Link
+Deployed linked: "https://fotonicia-react-assign.vercel.app/"  on vercel 
 
 
 
